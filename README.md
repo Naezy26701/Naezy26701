@@ -1,7 +1,7 @@
 [![MasterHead](https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif)](https://Naezy26701.io)
 <h1 align="center">Hi 👋, I'm Mohd. Naved</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align = "right" alt = "Coding" width = "400" scr = "https://kca.com.pk/images/slider/20210706_developer-economy_01.gif">
+<img align = "right" alt = "Coding" width = "400" src = "https://kca.com.pk/images/slider/20210706_developer-economy_01.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naezy26701&label=Profile%20views&color=0e75b6&style=flat" alt="naezy26701" /> </p>
 
